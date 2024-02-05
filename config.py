@@ -2,6 +2,6 @@ import os
 
 
 class Config(object):
-    TG_BOT_TOKEN = os.environ.get("6463385416:AAEquC5-ezVaahZFYTK0FCQJJsiZJ5ASX0c", "6463385416:AAEquC5-ezVaahZFYTK0FCQJJsiZJ5ASX0c")
+    TG_BOT_TOKEN = os.environ.get("6561779740:AAE66YBfrZIKebrpAf_h-o5zxGFLWt31hO0", "6561779740:AAE66YBfrZIKebrpAf_h-o5zxGFLWt31hO0")
 
     
